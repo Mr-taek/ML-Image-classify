@@ -2,7 +2,7 @@
 # it's intended to realize MachineLearning function as trying to code it with base ML acknowledge
 # it perform a image distribution  such Number like zero to nine
 
-# If you have interset with my code or question simething about below code, contact me by email.
+# If you have interset with my code or some question about below code, contact me by email
 # Leekt970620@gmail.com
 
 
